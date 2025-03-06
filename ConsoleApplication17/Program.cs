@@ -10,6 +10,7 @@ namespace ConsoleApplication17
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome to trichy");
         }
     }
 }
